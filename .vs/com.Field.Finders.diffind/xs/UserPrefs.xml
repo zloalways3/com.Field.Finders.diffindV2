@@ -1,0 +1,90 @@
+﻿<Properties StartupConfiguration="{125FF67E-8096-2622-1D06-171607FCCAB8}|">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87c0d4d9-d847-4fdb-9f4f-ed6c94387187" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Project/Scripts/Gameplay/Logic/Timer/Timer.cs">
+    <Files>
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Item/Item.cs" Line="6" Column="11" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/UI/HUD/Gamefield/Item/ItemView.cs" Line="54" Column="30" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Gamefield.cs" Line="10" Column="32" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Item/ItemTypeRepository.cs" Line="19" Column="1" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/ClickedItemsCounter/ClickedItemsCounter.cs" Line="13" Column="23" IsPinned="True" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Slider/Audio/VolumeSlider.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/BackgroundMusic/BackgroundMusic.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/ClickSFX/ClickSFX.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Audio/Audio.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Animation/PureAnimation/PureAnimation.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/Logic/Scene/SceneLoad.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Slider/SliderListener.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/Audio/ButtonClickSFX.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Slider/Audio/BackgroundMusic/BackgroundMusicVolumeSlider.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Slider/Audio/ClickSFX/ClickSFXVolumeSlider.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/ButtonListener.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Gamefield/Item/ItemType.cs" Line="1" Column="1" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/UI/HUD/Gamefield/Item/ItemTypeViewRepository.cs" Line="11" Column="26" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/UI/HUD/Gamefield/Item/ItemTypeSpritePair.cs" Line="1" Column="1" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/UI/ProgressView.cs" Line="17" Column="2" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Text/TextView.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Timer/Timer.cs" Line="14" Column="25" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/UI/TimerView.cs" />
+      <File FileName="Assets/Project/Scripts/Reusable/View/UI/Button/Scene/ReloadSceneButton.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/View/NextLevelButton.cs" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Level/Level.cs" Line="12" Column="1" />
+      <File FileName="Assets/Project/Scripts/Gameplay/Logic/Progress/Progress.cs" Line="17" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.Field.Finders.diffind" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Project" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Gameplay" expanded="True">
+                    <Node name="Logic" expanded="True">
+                      <Node name="Gamefield" expanded="True">
+                        <Node name="ClickedItemsCounter" expanded="True" />
+                        <Node name="Item" expanded="True" />
+                      </Node>
+                      <Node name="Level" expanded="True" />
+                      <Node name="Pause" expanded="True" />
+                      <Node name="Progress" expanded="True" />
+                      <Node name="Timer" expanded="True" />
+                    </Node>
+                    <Node name="View" expanded="True">
+                      <Node name="UI" expanded="True">
+                        <Node name="HUD" expanded="True">
+                          <Node name="Gamefield" expanded="True">
+                            <Node name="Item" expanded="True" />
+                          </Node>
+                        </Node>
+                      </Node>
+                    </Node>
+                  </Node>
+                  <Node name="Reusable" expanded="True">
+                    <Node name="Logic" expanded="True">
+                      <Node name="Animation" expanded="True">
+                        <Node name="PureAnimation" expanded="True" />
+                      </Node>
+                    </Node>
+                    <Node name="View" expanded="True">
+                      <Node name="UI" expanded="True">
+                        <Node name="Button" expanded="True">
+                          <Node name="Scene" expanded="True" />
+                        </Node>
+                        <Node name="Text" expanded="True" />
+                      </Node>
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
